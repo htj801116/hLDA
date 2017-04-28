@@ -15,9 +15,9 @@ setup(
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
     version='0.0.1',
-    description='Hierarchical Topic Models and the Nested Chinese Restaurant Process',
+    description='STA663 Final Project : Hierarchical Topic Models and the Nested Chinese Restaurant Process',
     url='https://github.com/htj801116/hLDA',
-    author='Tun Chieh Hsu',
+    author='Tun Chieh Hsu, Xialingzi Jin, Yen-Hua Chen',
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
         # How mature is this project? Common values are
